@@ -1,7 +1,7 @@
 {
   "id": "proj_1783089352081",
   "name": "JungleGit",
-  "timestamp": 1783089359403,
+  "timestamp": 1783099204615,
   "schemaVersion": "1.0.0",
   "appName": "Sheet2Card",
   "data": {
@@ -1985,12 +1985,10 @@
         "error": ""
       },
       "github": {
-        "owner": "rootknight",
+        "owner": "salt-007",
         "repo": "openboard",
         "defaultBranch": "main",
-        "projectPath": "",
-        "lastSyncedCommitSha": "8761f6aa32f83ec54e65e70a2e698804ddbe4182",
-        "lastSyncedManifestHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        "projectPath": ""
       },
       "projectResources": [],
       "recentResourceItems": [
